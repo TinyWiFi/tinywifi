@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg)
+![TinyWiFi-Metrics](/github-metrics.svg)
