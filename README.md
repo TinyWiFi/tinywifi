@@ -1,2 +1,2 @@
 ![TinyWiFi-Metrics](/github-metrics.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+[![GitHub Snake dark](https://raw.githubusercontent.com/TinyWiFi/tinywifi/output/github-contribution-grid-snake-dark.svg)
